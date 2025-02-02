@@ -2,6 +2,8 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+It’s a web-based quiz application that fetches quiz data from an API endpoint and presents it through an intuitive and engaging UI.
+
 ## Getting Started
 
 First, run the development server:
@@ -63,3 +65,6 @@ With these settings, the API will be directly called in production without using
 ![Quiz Home Image](./public/images/quiz_home.png)
 ![Quiz Question Image](./public/images/quiz_question.png)
 ![Quiz Selected Image](./public/images/quiz_selected.png)
+
+## Video
+https://github.com/user-attachments/assets/bbca7f70-003c-400b-b90e-0e08e1ba72bb
